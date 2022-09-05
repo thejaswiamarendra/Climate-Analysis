@@ -8,7 +8,7 @@ The data was taken from 1/1/1981 to 31/8/2022 in csv formats.
 
 Since this project focuses mainly on South Indian climate, we went with cities like Bangalore, Chennai, Thiruvananthapuram etc.
 
-The parameters that suited our project the best according to us were, 
+**The parameters that suited our project the best according to us were, **
 
 |Sl.No|Parameter|Abbreviation|Definition|
 | ------------- | ------------- | ----- | ----- |
