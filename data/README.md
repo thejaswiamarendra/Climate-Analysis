@@ -11,6 +11,7 @@ Since this project focuses mainly on South Indian climate, we went with cities l
 The parameters that suited our project the best according to us were, 
 
 |Sl.No|Parameter|Abbreviation|Definition|
+| ------------- | ------------- | ----- | ----- |
 |1|Temperature at 2 Meters|T2M|The average air (dry bulb) temperature at 2 meters above the surface of the earth.|
 |2|Temperature at 2 Meters Maximum|T2M_MAX|The maximum hourly air (dry bulb) temperature at 2 meters above the surface of the earth in the period of interest.|
 |3|Dew/Frost Point at 2 Meters|T2MDEW|The dew/frost point temperature at 2 meters above the surface of the earth.|
