@@ -21,9 +21,14 @@ The parameters that suited our project the best according to us were,
 |7|Relative Humidity at 2 Meters|RH2M|The ratio of actual partial pressure of water vapor to the partial pressure at saturation, expressed in percent.|
 |8|Precipitation Corrected|PRECTOTCORR|The bias corrected average of total precipitation at the surface of the earth in water mass (includes water content in snow).|
 |9|Surface Pressure|PS|The average of surface pressure at the surface of the earth.|
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|10|Wind Speed at 10 Meters|WS10M|The average of wind speed at 10 meters above the surface of the earth.|
+|11|Wind Direction at 10 Meters|WD10M|The average of the wind direction at 10 meters above the surface of the earth.|
+|12|Wind Speed at 50 Meters|WS50M|The average of wind speed at 50 meters above the surface of the earth.|
+|13|Wind Direction at 50 Meters|WD50M|The average of the wind direction at 50 meters above the surface of the earth.|
+|14|All Sky Surface UV Index|ALLSKY_SFC_UV_INDEX|The ultraviolet radiation exposure index.|
+|15|All Sky Surface UVA Irradiance|ALLSKY_SFC_UVA|The ultraviolet A (UVA 315nm-400nm) irradiance under all sky conditions.|
+|16|All Sky Surface UVB Irradiance|ALLSKY_SFC_UVB|The ultraviolet B (UVB 280nm-315nm) irradiance under all sky conditions.|
+|17|
+|18|
+|19|
+|20|
