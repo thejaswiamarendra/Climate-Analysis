@@ -28,7 +28,7 @@ Since this project focuses mainly on South Indian climate, we went with cities l
 |14|All Sky Surface UV Index|ALLSKY_SFC_UV_INDEX|The ultraviolet radiation exposure index.|
 |15|All Sky Surface UVA Irradiance|ALLSKY_SFC_UVA|The ultraviolet A (UVA 315nm-400nm) irradiance under all sky conditions.|
 |16|All Sky Surface UVB Irradiance|ALLSKY_SFC_UVB|The ultraviolet B (UVB 280nm-315nm) irradiance under all sky conditions.|
-|17|
-|18|
-|19|
+|17|Surface Soil Wetness|GWETTOP|The percent of soil moisture a value of 0 indicates a completely water-free soil and a value of 1 indicates a completely saturated soil; where surface is the layer from the surface 0 cm to 5 cm below grade.|
+|18|Root Zone Soil Wetness|GWETROOT|The percent of root zone soil wetness a value of 0 indicates a completely water-free soil and a value of 1 indicates a completely saturated soil; where root zone is the layer from the surface 0 cm to 100 cm below grade.|
+|19|Profile Soil Moisture|GWETPROF|The percent of profile soil moisture a value of 0 indicates a completely water-free soil and a value of 1 indicates a completely saturated soil; where profile is the layer from the surface down to the bedrock.|
 |20|
