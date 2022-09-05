@@ -21,4 +21,10 @@ The parameters that suited our project the best according to us were,
 |8|Precipitation Corrected|PRECTOTCORR|The bias corrected average of total precipitation at the surface of the earth in water mass (includes water content in snow).|
 |9|Surface Pressure|PS|The average of surface pressure at the surface of the earth.|
 
+A	A	A
+A	A	A
+A	A	A
+![image](https://user-images.githubusercontent.com/79244679/188491929-fa2c8637-c454-42f8-a288-4e5abea990f6.png)
+
+
 
