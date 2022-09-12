@@ -31,4 +31,18 @@ Since this project focuses mainly on South Indian climate, we went with cities l
 |17|Surface Soil Wetness|GWETTOP|The percent of soil moisture a value of 0 indicates a completely water-free soil and a value of 1 indicates a completely saturated soil; where surface is the layer from the surface 0 cm to 5 cm below grade.|
 |18|Root Zone Soil Wetness|GWETROOT|The percent of root zone soil wetness a value of 0 indicates a completely water-free soil and a value of 1 indicates a completely saturated soil; where root zone is the layer from the surface 0 cm to 100 cm below grade.|
 |19|Profile Soil Moisture|GWETPROF|The percent of profile soil moisture a value of 0 indicates a completely water-free soil and a value of 1 indicates a completely saturated soil; where profile is the layer from the surface down to the bedrock.|
-|20|
+
+
+Hourly Data fir Chennai
+
+|Sl.No|Parameter|Abbreviation|Definition|
+| ------------- | ------------- | ----- | ----- |
+|1|Temperature at 2 Meters|T2M|The average air (dry bulb) temperature at 2 meters above the surface of the earth.|
+|2|Specific Humidity at 2 Meters|QV2M|The ratio of the mass of water vapor to the total mass of air at 2 meters (g water/kg total air).|
+|3|Precipitation Corrected|PRECTOTCORR|The bias corrected average of total precipitation at the surface of the earth in water mass (includes water content in snow).|
+|4|Wind Speed at 10 Meters|WS10M|The average of wind speed at 10 meters above the surface of the earth.|
+|5|Surface Pressure|PS|The average of surface pressure at the surface of the earth.|
+|6|All Sky Surface UV Index|ALLSKY_SFC_UV_INDEX|The ultraviolet radiation exposure index.|
+|7|Dew/Frost Point at 2 Meters|T2MDEW|The dew/frost point temperature at 2 meters above the surface of the earth.|
+|8|Wet Bulb Temperature at 2 Meters|T2MWET|The adiabatic saturation temperature which can be measured by a thermometer covered in a water-soaked cloth over which air is passed at 2 meters above the surface of the earth.|
+|9|Wind Direction at 10 Meters|WD10M|The average of the wind direction at 10 meters above the surface of the earth.|
