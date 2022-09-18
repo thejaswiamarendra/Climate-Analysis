@@ -33,7 +33,7 @@ Since this project focuses mainly on South Indian climate, we went with cities l
 |19|Profile Soil Moisture|GWETPROF|The percent of profile soil moisture a value of 0 indicates a completely water-free soil and a value of 1 indicates a completely saturated soil; where profile is the layer from the surface down to the bedrock.|
 
 
-Hourly Data for Chennai:
+Hourly Data for Chennai and Mangalore (1-1-2012 to 1-1-2022):
 
 |Sl.No|Parameter|Abbreviation|Definition|
 | ------------- | ------------- | ----- | ----- |
