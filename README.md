@@ -5,6 +5,12 @@ Project for the course Data Analytics - UE20CS312
 
 Exploratory data analysis on South Indian weather data obtained from the NASA POWER project and forecast of temperature in Chennai. Temperature forecast was carried out using LSTM and GRU models.
 
+## Requirements
+
+All the ipynb files can be run on google colab. Download the necessary datasets and import it in your copy of the colab notebook before execution.  
+If you want to run the files on your local environment, you will need  
+tensorflow, numpy, pandas and matplotlib libraries in python along with the latest version of python itself.
+
 ## Model performance
 
 |Model |MAPE(%) |RMSE|
@@ -32,4 +38,4 @@ The LSTM model for multi-step forecasts using multi-variate data predicted tempe
 
 1. [Jeffrey S Varghese](https://github.com/jsv1604)
 3. [Thejaswi A](https://github.com/Thejaswi-Amarendra)
-4. Rachitha Suresh
+4. [Rachitha Suresh](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
