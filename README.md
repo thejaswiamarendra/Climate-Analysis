@@ -30,6 +30,6 @@ The LSTM model for multi-step forecasts using multi-variate data predicted tempe
 
 ## Contributions
 
-1. Jeffrey S Varghese
-3. Thejaswi A
+1. ![Jeffrey S Varghese](https://github.com/jsv1604)
+3. ![Thejaswi A](https://github.com/Thejaswi-Amarendra)
 4. Rachitha Suresh
