@@ -7,9 +7,10 @@ Exploratory data analysis on South Indian weather data obtained from the NASA PO
 
 ## Model performance
 
-Model MAPE(%) |RMSE
-LSTM for single-step forecast |0.32 |0.13
-LSTM for single-step forecast using multi-variate data |2.36 |0.13
-LSTM for multi-step forecast using multi-variate data |2.46 |0.84
+|Model |MAPE(%) |RMSE|
+|---------------|-----------|--------|
+|LSTM for single-step forecast |0.32 |0.13|
+|LSTM for single-step forecast using multi-variate data |2.36 |0.13|
+|LSTM for multi-step forecast using multi-variate data |2.46 |0.84|
 
 
