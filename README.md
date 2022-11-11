@@ -28,7 +28,7 @@ The LSTM model for multi-step forecasts using multi-variate data predicted tempe
 5. Han, Jung Min, Yu Qian Ang, Ali Malkawi, and Holly W. Samuelson. "Using recurrent neural networks for localized weather prediction with combined use of public airport data and on-site measurements." Building and Environment 192 (2021): 107601.
 6. http://colah.github.io/
 
-## Contributions
+## Contributors
 
 1. [Jeffrey S Varghese](https://github.com/jsv1604)
 3. [Thejaswi A](https://github.com/Thejaswi-Amarendra)
