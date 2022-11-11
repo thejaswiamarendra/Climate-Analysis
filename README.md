@@ -39,4 +39,4 @@ The LSTM model for multi-step forecasts using multi-variate data predicted tempe
 1. [Jeffrey S Varghese](https://github.com/jsv1604)
 3. [Thejaswi A](https://github.com/Thejaswi-Amarendra)
 4. [Rachitha Suresh](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-![coolz](images/WhatsApp Image 2022-11-11 at 11.41.45 PM.jpeg)
+![coolz](images/coolz.jpeg)
